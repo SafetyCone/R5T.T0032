@@ -1,4 +1,4 @@
-R5T.T0032 - IFileExtensions instance for use as an extension methods base.
+R5T.T0032 - IFileExtension instance for use as an extension methods base.
 
 Goals
 

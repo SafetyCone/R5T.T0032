@@ -1,0 +1,4 @@
+R5T.T0032.X001 - IFileExtensions extensions for basic file formats (txt, bin, dat, json, etc.).
+
+Goals
+
